@@ -45,7 +45,8 @@
 }
 
 .wprt-section.facts-2 {
-    background-image: url(../img/bg-section-5.jpg);
+    background: url(../../images/counter.jpg) no-repeat;
+    background-size: cover;
     background-position: center center;
 }
 
